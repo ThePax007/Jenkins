@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.bykowski.jexample.JexampleApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.91 s - in pl.bykowski.jexample.JexampleApplicationTests
